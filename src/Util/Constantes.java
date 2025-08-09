@@ -14,7 +14,7 @@ public class Constantes {
     public static final int VIDA_ELFO = 100;
     public static final int VIDA_ELFO_AGUA = 115;
     public static final int VIDA_ORCO = 100;
-    public static final int VIDA_BESTIA = 100;
+    public static final int VIDA_BESTIA = 10;
     
     // IDs de armas (deben coincidir con la BD)
     public static final int ID_ESCOPETA = 1;
